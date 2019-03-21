@@ -13,7 +13,7 @@ enddate: 2019-04-16        # machine-readable end date for the workshop in YYYY-
 instructor: ["Margarita Kariolou, Elzbieta Lauizikaite, Kiana West, Anat Melamed"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Aris Aristodemou, Amit Mandal"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["k.michalickova@imperial.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes:    ["http://pad.software-carpentry.org/2019-04-15-Imperial"]         # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -207,12 +207,12 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <hr/>
 
 <h2 id="registration">Registration</h2>
-<p>Please register <a href="https://goo.gl/forms/???">here</a>.</p>
+<p>Please register <a href="https://forms.gle/NmQvMVpgF4hrvypD7">here</a>.</p>
 <hr/>
 
 <h2 id="setup">Collaborative document</h2>
 <p id="collaborative_notes">
-  <b>We will use this <a href=" http://pad.software-carpentry.org/2019-04-15-Imperial">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.</b>
+  <b>We will use this <a href="http://pad.software-carpentry.org/2019-04-15-Imperial">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.</b>
 </p>
 
 
