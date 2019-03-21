@@ -6,10 +6,10 @@ address: "School of Medicine, SMMS 142 - Hynds computer room, St Mary's Campus" 
 country: "GB"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "51.517548,-0.173186"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "February 11-12, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "April 15-16, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "10:00 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-02-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2010-02-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2019-04-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-04-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Margarita Kariolou, Elzbieta Lauizikaite, Kiana West, Anat Melamed"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Aris Aristodemou, Amit Mandal"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["k.michalickova@imperial.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
