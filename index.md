@@ -210,6 +210,11 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <p>Please register <a href="https://goo.gl/forms/???">here</a>.</p>
 <hr/>
 
+<h2 id="setup">Collaborative document</h2>
+<p id="collaborative_notes">
+  <b>We will use this <a href=" http://pad.software-carpentry.org/2019-04-15-Imperial">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.</b>
+</p>
+
 
 {% comment %}
 SCHEDULE
@@ -363,6 +368,14 @@ please preview your site before committing, and make sure to run
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
