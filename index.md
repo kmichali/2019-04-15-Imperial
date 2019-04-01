@@ -208,7 +208,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <h2 id="registration">Registration</h2>
 <b> The class is fully booked.</b>
-<p> You are welcome to put your name on the<a href="https://forms.gle/tL7V8YELg7CjYLN48">waiting list</a>.</p>
+<p> You are welcome to put your name on the <a href="https://forms.gle/tL7V8YELg7CjYLN48">waiting list</a>.</p>
 <hr/>
 
 {% comment %}
