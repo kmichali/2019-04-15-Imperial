@@ -207,7 +207,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <hr/>
 
 <h2 id="registration">Registration</h2>
-<p>Please register <a href="https://forms.gle/NmQvMVpgF4hrvypD7">here</a>.</p>
+<b> The class is fully booked.</b>
+<p> You are welcome to put your name on the<a href="https://forms.gle/tL7V8YELg7CjYLN48">waiting list</a>.</p>
 <hr/>
 
 {% comment %}
